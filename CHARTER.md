@@ -1,20 +1,62 @@
-## The DAOPS Foundation Charter v0.8
+## The DAOPS Foundation Charter v0.9
 
 Effective 1st March 2019
 
 #### 1. Mission of the DAOPS Foundation.
 
-The Foundation’s mission is committing to evolve next generation software engineering.
+The DAOPS Foundation’s mission is **committing to accelerating global digital transformation through technical standardization**.
 
-The Next Generation Software Engineering Definition v1.0:
+**Digital Transformation**  is the use of new, fast and frequently changing digital technology to solve problems. It is about transforming processes that were non digital or manual to digital processes.(Wikipedia)
 
-**Software engineering** is the application of engineering  to the development ,delivery and operation of software in a systematic method based on ABC(AI,Big Data, Cloud computing)  technology.
+**Technical Standardization** is to develop technical standards based on the consensus of different parties that include firms, users, interest groups, standards organizations and governments.Standardization can help maximize compatibility, interoperability, security, repeatability and quality.(Based on Wikipedia)
 
-Definition from Wikipedia:**Software engineering** is the application of engineering  to the development of software in a systematic method.
+**D**igitization, Serving the digital transformation of global enterprises.
 
-#### 2. Membership.
+**A**I, Transform IT productivity through artificial intelligence.
 
-The Foundation will be composed of Platinum, Gold , End User and Academic and Non-Profit member  (each, a "Member" and, collectively, the “Members”) will be reviewed by the Governing Board of the Foundatio.. All members in the Foundation enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board. During the term of their membership, all members will comply with all such policies as the Foundation may adopt with notice to members.
+**O**peness, Develop technical standards like open source software.
+
+**P**racticability, Every standard is for practicing.
+
+**S**ecurity, Security is the cornerstone. 
+
+#### 2. Governing Board
+
+ The Governing Board will be responsible for overall management of the Foundation, including:
+
+- organization construction.
+- adopt and maintain policies or rules and procedures for the Foundation.
+- approve a budget directing the use of funds raised by the Foundation from all sources of revenue.
+- nominate and elect Officers of the Foundation.
+- vote on  decisions or matters  before the Governing Board.
+
+Composition:
+
+- Co-Founders of the Foundation.
+- Other member Representatives consist of:
+  - one representative appointed from each Platinum member.
+  - one elected representativethe from Gold members  (if has).
+  - TOC Chair.
+
+#### 3. Global Technical Committee 
+
+The role of the Global Technical  Committee (GTC) is to facilitate communication and collaboration among the Projects. 
+
+Composition:
+
+- TOC members elected are expected to cover key technical domains: digital technology, artificial intelligence, software engineering, security, devops, agile development, continuous delivery, technical operations, application architecture etc.
+- TOC members should be elected by the Governing Board.
+
+Responsibilities:
+
+- defining and maintaining the technical vision and principles for the DAOPS Foundation.
+- approving new projects within the scope for the Foundation set by the Governing Board, and create a conceptual architecture for the projects.
+- reviewing feedback from end user committee and map to projects.
+- defining common practices to be implemented across DAOPS Foundation projects.
+
+#### 4. Membership
+
+The Foundation will be composed of Platinum, Gold , End User and Academic and Non-Profit member  (each, a "Member" and, collectively, the “Members”)  will be reviewed by the Governing Board of the Foundation. All members in the Foundation enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board. During the term of their membership, all members will comply with all such policies as the Foundation may adopt with notice to members.
 
 (1) Platinum members will be entitled to:
 
@@ -23,48 +65,23 @@ The Foundation will be composed of Platinum, Gold , End User and Academic and No
 
 (2) Gold members will be entitled to:
 
-- Appoint one (1) representative to the  Governing Board per every ten (10) Gold members, up to three (3) maximum Gold representatives.
+- Appoint one (1) representative to the  Governing Board per every ten (10) Gold members, up to three (3) maximumbuwen Gold representatives.
 - Enjoy relative placement in displays of membership.
 
 (3) End User members will be entitled to:
 
-- Participate in the End User Advisory Community.
+- Participate in the End User Community.
 - Enjoy relative placement in displays of membership.
 
-#### 3. Governing Board
+(4) Academic members will be entitled to:
 
- The Governing Board will be responsible for overall management of the Foundation, including:
+- Participate in the End User Community.
+- Enjoy relative placement in displays of membership.
 
-- organization construction;
-- adopt and maintain policies or rules and procedures for the Foundation;
-- approve a budget directing the use of funds raised by the Foundation from all sources of revenue;
-- nominate and elect Officers of the Foundation;
-- ***publish use cases, user stories, websites and priorities to help inform the ecosystem and technical community;***
-- vote on  decisions or matters  before the Governing Board.
+(5) Non-Profit members will be entitled to:
 
-Composition:
-
-- Co-Founders of the Foundation;
-- Other member Representatives consist of:
-  - one representative appointed from each Platinum member; and
-  - the Gold member elected representatives (if any)
-  - TOC Chair.
-
-#### 4. Technical Oversight Committee 
-
-The role of the  Technical Oversight Committee('TOC') is to facilitate communication and collaboration among the Projects. 
-
-Composition:
-
-- TOC members elected are expected to cover key technical domains: agile development, continuous delivery, technical operations, application architecture, security and risk management, organization construction and culture building etc.
-- TOC members should be elected by the Governing Board.
-
-Responsibilities:
-
-- defining and maintaining the technical vision and principles for the DAOPS Foundation,
-- approving new projects within the scope for the Foundation set by the Governing Board, and create a conceptual architecture for the projects,
-- reviewing feedback from end user committee and map to projects,
-- defining common practices to be implemented across DAOPS Foundation projects.
+- Participate in the End User Community.
+- Enjoy relative placement in displays of membership.
 
 #### 5. IP Policy
 

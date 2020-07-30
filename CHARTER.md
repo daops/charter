@@ -14,7 +14,7 @@ The DAOPS Foundation’s mission is **committing to accelerating global digital 
 
 **A**I, Transform IT productivity through artificial intelligence.
 
-**O**peness, Develop technical standards like open source software.
+**O**penness, Develop technical standards like open source software.
 
 **P**racticability, Every standard is for practicing.
 

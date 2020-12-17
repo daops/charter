@@ -14,7 +14,7 @@ The DAOPS Foundation’s mission is **committing to accelerating global digital 
 
 **A**I, Transform IT productivity through artificial intelligence.
 
-**O**peness, Develop technical standards like open source software.
+**O**penness, Develop technical standards like open source software.
 
 **P**racticability, Every standard is for practicing.
 
@@ -36,7 +36,7 @@ Composition:
 - Other member Representatives consist of:
   - one representative appointed from each Platinum member.
   - one elected representativethe from Gold members  (if has).
-  - TOC Chair.
+  - GTC Chair.
 
 #### 3. Global Technical Committee 
 
@@ -44,8 +44,8 @@ The role of the Global Technical  Committee (GTC) is to facilitate communication
 
 Composition:
 
-- TOC members elected are expected to cover key technical domains: digital technology, artificial intelligence, software engineering, security, devops, agile development, continuous delivery, technical operations, application architecture etc.
-- TOC members should be elected by the Governing Board.
+- GTC members elected are expected to cover key technical domains: digital technology, artificial intelligence, software engineering, security, devops, agile development, continuous delivery, technical operations, application architecture etc.
+- GTC members should be elected by the Governing Board.
 
 Responsibilities:
 
@@ -65,7 +65,7 @@ The Foundation will be composed of Platinum, Gold , End User and Academic and No
 
 (2) Gold members will be entitled to:
 
-- Appoint one (1) representative to the  Governing Board per every ten (10) Gold members, up to three (3) maximumbuwen Gold representatives.
+- Appoint one (1) representative to the  Governing Board per every ten (10) Gold members, up to three (3) maximum Gold representatives.
 - Enjoy relative placement in displays of membership.
 
 (3) End User members will be entitled to:
